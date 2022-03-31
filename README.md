@@ -1,4 +1,4 @@
-# Fashion Cube-Ecommerce Application
+# Atomotos Fashion Application
 
 #General Info
 
