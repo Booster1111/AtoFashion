@@ -4,7 +4,7 @@
 
 front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 
-## This project is created using:
+## This AtoFashion project is created using:
 
 - [x] Monorepo
 - [x] Lerna
@@ -21,11 +21,5 @@ front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 - Cart
 - Login / Register
 
-# ScreenShot
-
-<img src="screen/screen1.png">
-<img src="screen/screen2.png">
-<img src="screen/screen3.png">
-<img src="screen/screen4.png">
-<img src="screen/screen5.png">
-<img src="screen/screen6.png">
+![Untitled](https://user-images.githubusercontent.com/89033750/161155601-766016f7-53a1-4c88-ab31-e44f53903986.png)
+![Untitled1](https://user-images.githubusercontent.com/89033750/161155606-d2c7341d-bc81-4035-8b4b-2cc35a27e70b.png)
